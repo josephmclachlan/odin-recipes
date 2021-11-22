@@ -14,7 +14,3 @@ Demonstrate understanding in :
         -unordered, ordered, nested
     5. Git
         -pushing, committing, and general use
-
-Test how commits work 
-
-Git diff test
