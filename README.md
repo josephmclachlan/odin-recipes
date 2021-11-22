@@ -16,3 +16,5 @@ Demonstrate understanding in :
         -pushing, committing, and general use
 
 Test how commits work 
+
+Git diff test
